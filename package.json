@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-image-crop": "^10.0.1",
     "react-scripts": "^5.0.0",
     "serve": "^13.0.2"
   },
